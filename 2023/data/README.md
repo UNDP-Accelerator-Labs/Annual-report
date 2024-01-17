@@ -16,7 +16,7 @@ In 2023, the Accelerator Labs Network as a whole concluded learning cycles that 
 *Table 1: Number of Accelerator Lab partners by sector.
 \* United Nations accounts for UN Secertariat, as well as sister agencies, funds, and programmes.*
 
-Further, **576/ 1168** (49.3%) of these partners were considered new to UNDP (at least in country), a majority of which are from the private sector. A full breakdown is shown in Table 2.
+Further, **576/ 1168** (49.3%) of these partners were considered new to UNDP (at least in country), a majority of which were from the private sector. Note this number was skewed by the high number of government partners, which were indeed traditional partners for UNDP. When looking at other categories, there were much higher proportions of new partners, for example **75.9%** for the private sector, **63.9%** for academia, and **59.6%** for civil society. A full breakdown is shown in Table 2.
 
 
 <table>
