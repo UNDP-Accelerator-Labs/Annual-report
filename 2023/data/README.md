@@ -2,6 +2,9 @@
 # 2023 Annual report data
 
 ## Partnerships
+
+- [Download the data](https://github.com/UNDP-Accelerator-Labs/Annual-report/blob/main/2023/data/UNDP_AccLabs_2023_partners.csv)
+
 In 2023, the Accelerator Labs Network as a whole concluded learning cycles that involved **1168** partners. The vast majority of these partners were government entities, followed by private sector and civil society organizations. A full breakdown is shown in Table 1. 
 
 | Sector | Count |
