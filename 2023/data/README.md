@@ -1,6 +1,8 @@
 ### UNDP Accelerator Labs
 # 2023 Annual report data
 
+All the numbers presented here are deerived from information shared by the Accelerator Labs on their [network learning platform](https://learningplans.sdg-innovation-commons.org/en/home). Visit the site to learn more about the work of each individual lab. You can also browse the information thematically using the Accelerator Labs’ [SDG map](https://undp-accelerator-labs.github.io/SDG-map/).
+
 ## Partnerships
 
 - [Download the data](https://github.com/UNDP-Accelerator-Labs/Annual-report/blob/main/2023/data/UNDP_AccLabs_2023_partners.csv)
