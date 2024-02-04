@@ -2,3 +2,5 @@
 env/
 *.ipynb
 source/
+txt/
+2023/data/raw/
